@@ -3,7 +3,7 @@
 This project is a mini data analysis exercise using the famous Titanic dataset. It was completed as part of the Faculty of **Data – Digital Skill Fair 38** program by [@dibimbing.id](https://www.linkedin.com/school/dibimbing-id/)
 ## 📑Titanic Survival Analysis
 This project explores the famous Titanic dataset using exploratory data analysis (EDA) and visualization techniques to understand patterns of survival during the 1912 disaster. The dataset provides information about 500 passengers aboard the Titanic, including their survival status, name, gender, and age. This classic dataset offers insights into how social norms, demographic factors, and possibly evacuation protocols influenced survival outcomes during this tragic maritime disaster.
-You can access the dataset used in this project [here]().
+You can access the dataset used in this project [here](titanic.xlsx).
 
 The analysis primarily focuses on identifying correlations between passengers' demographic characteristics and their survival rates. Through various visualization methods including bar charts, box plots, histograms, and correlation matrices, we investigate how factors such as gender and age impacted one's chances of survival during the Titanic disaster.
 ## ✨Insight
