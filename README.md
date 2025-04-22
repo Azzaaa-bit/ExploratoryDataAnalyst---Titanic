@@ -27,6 +27,9 @@ The box plot analysis shows that while age distributions between survivors and n
 - Age Distribution of Passengers
 - Age Distribution by Survival Status
 - Gender Proportion of Survivors
+
+## 📑Laporan PDF
+Kamu dapat mengunduh laporan lengkap dalam format PDF [di sini]().
 ## 👨‍💻 About Me
 Hi! I'm Farrel Farica Firjaturazza, a participant in the Faculty of Data – Digital Skill Fair 38 program by @dibimbing.id. This project was created as part of the program to sharpen my data analytics skills through practical, hands-on experience.
 
